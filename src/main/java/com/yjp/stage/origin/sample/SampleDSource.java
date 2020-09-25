@@ -26,7 +26,7 @@ import com.streamsets.pipeline.api.StageDef;
  */
 @StageDef(
     version = 1,
-    label = "Sample Origin",
+    label = "kudu Origin",
     description = "",
     icon = "default.png",
     execution = ExecutionMode.STANDALONE,
